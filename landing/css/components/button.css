@@ -1,0 +1,17 @@
+.button {
+  color:goldenrod;
+
+  padding: 10px 20px;
+  border: none;
+  border-radius: 50px;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: none;
+  display: block;
+  width: 90px;
+}
+
+.button:hover {
+  background-color: #ffffff;
+  transition: .5s;
+}
